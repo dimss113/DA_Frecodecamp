@@ -4,6 +4,7 @@
 /boilerplate-sea-level-predictor/pyproject.toml
 /boilerplate-sea-level-predictor/replit.nix
 /boilerplate-sea-level-predictor/poetry.lock
+/boilerplate-sea-level-predictor/venv
 
 /boilerplate-page-view-time-series-visualizer/.cache
 /boilerplate-page-view-time-series-visualizer/.config
@@ -11,6 +12,8 @@
 /boilerplate-page-view-time-series-visualizer/pyproject.toml
 /boilerplate-page-view-time-series-visualizer/replit.nix
 /boilerplate-page-view-time-series-visualizer/poetry.lock
+/boilerplate-page-view-time-series-visualizer/venv
+
 
 /boilerplate-medical-data-visualizer/.cache
 /boilerplate-medical-data-visualizer/.config
@@ -18,6 +21,8 @@
 /boilerplate-medical-data-visualizer/pyproject.toml
 /boilerplate-medical-data-visualizer/replit.nix
 /boilerplate-medical-data-visualizer/poetry.lock
+/boilerplate-medical-data-visualizer/venv
+
 
 /boilerplate-mean-variance-standard-deviation-calculator/.cache
 /boilerplate-mean-variance-standard-deviation-calculator/.config
@@ -25,6 +30,8 @@
 /boilerplate-mean-variance-standard-deviation-calculator/pyproject.toml
 /boilerplate-mean-variance-standard-deviation-calculator/replit.nix
 /boilerplate-mean-variance-standard-deviation-calculator/poetry.lock
+/boilerplate-mean-variance-standard-deviation-calculator/venv
+
 
 /boilerplate-demographic-data-analyzer/.cache
 /boilerplate-demographic-data-analyzer/.config
@@ -32,3 +39,4 @@
 /boilerplate-demographic-data-analyzer/pyproject.toml
 /boilerplate-demographic-data-analyzer/replit.nix
 /boilerplate-demographic-data-analyzer/poetry.lock
+/boilerplate-demographic-data-analyzer/venv
